@@ -1,6 +1,6 @@
 A PPA repository for packages:
 
-[libnginx-mod-http-zip](https://github.com/evanmiller/mod_zip)
+[libnginx-mod-http-zip](https://github.com/evanmiller/mod_zip)  
 [libnginx-mod-http-ntlm](https://github.com/gabihodoroaga/nginx-ntlm-module)
 
 Usage
