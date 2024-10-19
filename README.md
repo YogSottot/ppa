@@ -7,7 +7,10 @@ Usage
 
 ```
 sudo curl -SsL -o /etc/apt/trusted.gpg.d/yogsottot.asc https://yogsottot.github.io/ppa/yogsottot.asc
-sudo curl -SsL -o /etc/apt/sources.list.d/yogsottot.list https://yogsottot.github.io/ppa/yogsottot.list
+# for debian 12
+sudo curl -SsL -o /etc/apt/sources.list.d/yogsottot.list https://yogsottot.github.io/ppa/yogsottot_debian12.list
+# for ubuntu 24.40
+sudo curl -SsL -o /etc/apt/sources.list.d/yogsottot.list https://yogsottot.github.io/ppa/yogsottot_ubuntu24.04.list
 sudo apt update
 sudo apt install libnginx-mod-http-zip libnginx-mod-http-ntlm
 ```

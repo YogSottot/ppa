@@ -1,0 +1,5 @@
+Component: main
+Origin: YogSottot PPA
+Label: YogSottot PPA
+Architecture: amd64
+Description: Apt repository for some packages

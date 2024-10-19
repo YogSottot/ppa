@@ -1,0 +1,36 @@
+Package: libnginx-mod-http-ntlm
+Version: 1.19.3+noble~1.gbp3da77b0
+License: bsd3
+Vendor: none
+Architecture: amd64
+Maintainer: YogSottot  <7411302+YogSottot@users.noreply.github.com>
+Installed-Size: 73
+Depends: nginx-abi-1.22.1-7, libc6 (>= 2.4)
+Homepage: https://github.com/gabihodoroaga/nginx-ntlm-module
+Priority: optional
+Section: httpd
+Filename: pool/main/libn/libnginx-mod-http-ntlm/libnginx-mod-http-ntlm_1.19.3+noble~1.gbp3da77b0_amd64.deb
+Size: 37354
+SHA256: 8a7b5078cfc3273d93d057abd9eb70c20d23dcb88fc3a1353a3dae084e398aad
+SHA1: ec60704f1b5b8aa3a494f4a3fbaa1227c330b6f5
+MD5sum: fcd1eadf8e25e193f5b5a26af24a637c
+Description: The NTLM module allows proxying requests with NTLM Authentication. The upstream connection is bound to the client connection once the client sends a request with the Authorization header field value starting with Negotiate or NTLM. Further client requests will be proxied through the same upstream connection, keeping the authentication context.
+
+Package: libnginx-mod-http-zip
+Version: 1.3.0+noble~1.gbp8e65b82
+License: bsd3
+Vendor: none
+Architecture: amd64
+Maintainer: YogSottot  <7411302+YogSottot@users.noreply.github.com>
+Installed-Size: 206
+Depends: nginx-abi-1.22.1-7, libc6 (>= 2.4)
+Homepage: https://github.com/evanmiller/mod_zip
+Priority: optional
+Section: httpd
+Filename: pool/main/libn/libnginx-mod-http-zip/libnginx-mod-http-zip_1.3.0+noble~1.gbp8e65b82_amd64.deb
+Size: 103680
+SHA256: a7c3b86b2cef0e907138c1d6205528b0e5bb1204e685182a2bd6932f80bdc488
+SHA1: 27a854d5faf41d7283cd47140a3fdd7fcdbbcc40
+MD5sum: 2f3d5f81536fad7f259028724ead8fa7
+Description: mod_zip assembles ZIP archives dynamically. It can stream component files from upstream servers with nginx's native proxying code, so that the process never takes up more than a few KB of RAM at a time, even while assembling archives that are (potentially) gigabytes in size.
+
