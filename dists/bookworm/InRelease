@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: YogSottot PPA
+Label: YogSottot PPA
+Codename: bookworm
+Date: Sat, 19 Oct 2024 18:07:19 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for some packages
+MD5Sum:
+ fe164ea00e693f4648664b98d303adb1 1886 main/binary-amd64/Packages
+ a1121baf6377a223084cef3a14c0c726 931 main/binary-amd64/Packages.gz
+ 59fb53effb4302ea4dc7eb3ea4155d99 125 main/binary-amd64/Release
+SHA1:
+ 193e0982332ae108a7c4cbadae2d9ebde510dfbe 1886 main/binary-amd64/Packages
+ c814d57a697a824722ac2a1d583bed84e5225367 931 main/binary-amd64/Packages.gz
+ 6154816ff4648291d6fb52c29c77beadc2ef98f7 125 main/binary-amd64/Release
+SHA256:
+ fb93254ad3b95c6d4a17cb4e5031fcbf08c56a6e7f7c8db0e0bb9c13bf087561 1886 main/binary-amd64/Packages
+ 18885e0b46cba4172502feb117eec70365c433479e2e000bc3016affaaccb72a 931 main/binary-amd64/Packages.gz
+ dae0752ef3c87204c52a47c69d3cb72620606d3e3f6cfd4e5be8e4f9b6c65213 125 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmcT9VcACgkQ5SkAoxch
+/P7aRBAAotb3bieVc/6Fj4CNOJwNkVRZ69qTWrTHuEx+fDNM/KsxeCuTdVHKUktn
+iGWOy8XLDHOQBsSg3A3Ul09WKX0LK6TreZP8JGfjRJi78qLpeYBDotjOTbhQk+ki
+ayq8z+bgOEwY5N28TAK77G/+618whxtJSBYy2h/XIuVWqQcYu3601+bN+rISp9q/
+0yqwfrM3WHcGYAgItLS9Lvs+/qEpltBngRjfNMq1QP5Sn+1hpFX9RUQ0VNUFbiym
+5DP0A6UH9dPNZ+KCwlsNyfN6L4UPScBl1GEgET3XZDRqftquLT2cCczkEMv3pRDs
+eARAovYZtE0tYH9zHKSEGF5JeWJsRyN1BF9TUZh4XBcumTrK4BLRDSX2QzuSB5wB
+DVjhhGvXh0uiSdFOfBmfHtxdndyexvM+OULpYeH80P5Fpo62FY66JUjuy4DTpgj7
+f8IPxIDXIwiV5n9SNuXPPolwD276sZlEPGvQUh5oltRjyIXI39J7nhw9+Qu+K+Ot
+1pNQDaVMP4q2b/znjh3xVCgeT7Y6eOE8svic5fLLZhJn4fhjTgFcyrDRyJ/G7p7k
+nSyfF9a5G/kXy1CZnvBtHJD+vcJECWuoXCfBLIprzS3ktaTUwk5jt0rDLkDIUf66
+NwUBjLtbQArqJUSFbqxwyq9bMN7erA3JhmFE5kYBzEV7FIZlrVQ=
+=RWZm
+-----END PGP SIGNATURE-----

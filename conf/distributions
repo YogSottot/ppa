@@ -1,0 +1,15 @@
+Origin: YogSottot PPA
+Label: YogSottot PPA
+Codename: bookworm
+Architectures: amd64
+Components: main
+Description: Apt repository for some packages
+SignWith: 79FC46D3DAB065CD1018F6BCE52900A31721FCFE
+
+Origin: YogSottot PPA
+Label: YogSottot PPA
+Codename: noble
+Architectures: amd64
+Components: main
+Description: Apt repository for some packages
+SignWith: 79FC46D3DAB065CD1018F6BCE52900A31721FCFE
