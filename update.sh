@@ -1,7 +1,15 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
-set -e
-set -v
+DISTRIBUTIONS=("bookworm" "noble")
+MODULES=("mod_ntlm" "mod_zip" "mod_zstd")
 
-reprepro includedeb bookworm *debian12*.deb
-reprepro includedeb noble *noble*.deb
+for dist in "${DISTRIBUTIONS[@]}"; do
+    echo "Processing distribution: $dist"
+    
+    #for module in "${MODULES[@]}"; do
+        #echo "Including $module for $dist"
+            #find "../nginx_mod_zip_docker_builder/fpm/$module/$dist" -name "*${dist}*.deb" -exec reprepro includedeb "$dist" {} +
+            find "../nginx_mod_zip_docker_builder/fpm/deb/$dist" -name "*${dist}*.deb" -exec reprepro includedeb "$dist" {} +
+    #done
+done
