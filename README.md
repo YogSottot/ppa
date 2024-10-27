@@ -7,7 +7,7 @@ A PPA repository for packages:
 Usage
 
 ```
-sudo curl -SsL -o /etc/apt/trusted.gpg.d/yogsottot.asc https://yogsottot.github.io/ppa/yogsottot.asc
+sudo curl -SsL -o /etc/apt/keyrings/yogsottot.asc https://yogsottot.github.io/ppa/yogsottot.asc
 # for debian 12
 sudo curl -SsL -o /etc/apt/sources.list.d/yogsottot.list https://yogsottot.github.io/ppa/yogsottot_debian12.list
 # for ubuntu 24.40
