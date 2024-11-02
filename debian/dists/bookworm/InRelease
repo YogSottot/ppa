@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: YogSottot PPA
 Label: YogSottot PPA
 Codename: bookworm
-Date: Sat, 02 Nov 2024 17:13:14 UTC
+Date: Sat, 02 Nov 2024 17:25:42 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for some packages
@@ -22,17 +22,17 @@ SHA256:
  dae0752ef3c87204c52a47c69d3cb72620606d3e3f6cfd4e5be8e4f9b6c65213 125 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmcmXaoACgkQ5SkAoxch
-/P6E2A//Zoqzinzlf44GWsXLR1v9gviHTNh7hawtcKLqb3kE5WZ9OERLPsopFMjW
-xChAR1LeemFjsroGiuS9EqC93VCgrpkIwqdwU1dO0a69+yQADxaZ0jb5a44u0wm8
-Ot/FqI8jlwKTnhTGY9tUISZ4ksM/AkfrNHqqdMjQo9UBmNLx4K6e9pbPvOxrEBfC
-LVisSyWbMIggnsI4AIeIH8H4lgwapZdjjaY+2gsYuRttiVYMn4EBW7IhSG3/ryKG
-uIsr/xQ8VQPk2bUSxVjOf3KtOQAHI8LwLQozKgKfUp2sfnhdfZWYHZOmcz1oF3LR
-ymlO7Hv5o16ZeWIemQnxHtQAV9v5ZA/BnrPdT6rvJ+emeEJ6vNjHe38RHLjOaGhd
-LZRbw/vLmpgfbTfy4TYCcKtTgPlAVtiecFEOkSjAitSZsuP4b5shkrzxGhX+u5Ue
-1azsh1CjMrfs7f7syu4zDfJhFbhIxSbCd/5EkOjT2uEQcUwqkX2cigLY+nglCQH+
-pW2C9b2K9aKJ8aK8PWyJ8xc8OM70GLGcBP6H4aDYYmhnPiNgs8Np6odIv7CglSwk
-77cykKnQmgKT2ufGwyoeDbzaS2dl1EOV8QA6ZBrdykC6MA4a6x22MJeeMrDvotGm
-OKlGUNIzDqskzBNZ0OqpuwZMy/YThxL3rmfeAZlfH38KUsc3dqE=
-=Lbps
+iQIzBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmcmYJYACgkQ5SkAoxch
+/P6QqQ//eSqyun4hL0zERruorpZdgh2vXI2MndmNahxlHzstMNRUm7D+980DcE4m
+I6wbYrrWhHEBa39bJnQ0CqQc1RDZhHSVBDHuyb2P7fXpkpNtxRkbgjOhR34Hmcib
+a7oaKkg+yom3t/ZU0LgWxcGQaOiVGUg4vHdxXFnkL5lCDINThfZAKXPnTNcaWb5K
+cdQkZm96BJZ/H5nCRxKi3l2Z6Vj2kYydBotXLxj9LbBAjjQfH6jU+KYgXnmjL+0j
+yk1LWU/5MQMe3YDhUMAmJq6TZkNlML848zIRdliKhG7SLAZ0SwrHhhVg5ka0Wvqs
+Gqn8ZofSEAR66N9lqwdwO0vGkDTWJF7q93rc+QTkgsyc6aXTYB8MtoR1HDT4eblc
+Q+M6VpqNF/csGbM/EKlzASqxzhkR19IH7J2qxI0ZiLXVZRZGqw7jWLOstFN7lZeo
+AF/5fEgzpg6a25AEarD62tYS4uMdv1szfqzh857WZKjxDEEye+UFSkltgA0CVwzY
+cR9X37rISB3a8eOz6wGtGCs84rQT0ryrYd/5x10REWaLDfc1t8tEsMwm74vaoUCr
+NYMuhOi9uDriy1ZC+H+h04vwzDXdCCVN8S664NHUikzp3JgaHNM3NyOnwvdI82KY
+Vw+AGINVUU4fCEu2CZrgm2OqL/gSNArzJypeBI5qa1Nc8XXqMT8=
+=WWxy
 -----END PGP SIGNATURE-----

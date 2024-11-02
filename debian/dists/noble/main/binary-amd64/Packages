@@ -46,9 +46,9 @@ Homepage: https://github.com/tokers/zstd-nginx-module
 Priority: optional
 Section: httpd
 Filename: pool/main/libn/libnginx-mod-http-zstd/libnginx-mod-http-zstd_0.1.1-1.gbpf4ba115~noble_amd64.deb
-Size: 287078
-SHA256: f31aad799dffc3c778ce97d4041d9a070f46cbdd066953c55d762e80b36ddef8
-SHA1: 03f421f73bb1a308a45ad195bcdd856b4caad70e
-MD5sum: 28110e3845317ba5cf71b78e8e703be5
+Size: 287062
+SHA256: e9e9c8b2c12095dafeae96f757b0aab0754b094860bcdc9d99cd7ec0a04b8bd2
+SHA1: 438f4776e217e14eaf04e0619410a5f9ce0bb4bc
+MD5sum: 2292d44a5122915eee78a46a8ecaa365
 Description: NGINX module for ZSTD compression
 
