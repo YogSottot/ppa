@@ -40,15 +40,15 @@ License: bsd3
 Vendor: none
 Architecture: amd64
 Maintainer: YogSottot  <7411302+YogSottot@users.noreply.github.com>
-Installed-Size: 705
+Installed-Size: 773
 Depends: nginx-abi-1.24.0-1, libc6 (>= 2.17)
 Homepage: https://github.com/tokers/zstd-nginx-module
 Priority: optional
 Section: httpd
 Filename: pool/main/libn/libnginx-mod-http-zstd/libnginx-mod-http-zstd_0.1.1-1.gbpf4ba115~noble_amd64.deb
-Size: 287062
-SHA256: e9e9c8b2c12095dafeae96f757b0aab0754b094860bcdc9d99cd7ec0a04b8bd2
-SHA1: 438f4776e217e14eaf04e0619410a5f9ce0bb4bc
-MD5sum: 2292d44a5122915eee78a46a8ecaa365
+Size: 319318
+SHA256: 49bb522a7bae9493cf2fe0a168d3a023b7f07b017e3befb8f683374754041b26
+SHA1: 9c19f9dffcf0da4cfa1be73fb72f8723787ead35
+MD5sum: 79dec4bc452adca7b19e3accaf500de8
 Description: NGINX module for ZSTD compression
 
