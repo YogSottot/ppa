@@ -3,6 +3,7 @@ Label: YogSottot PPA
 Codename: bookworm
 Architectures: amd64
 Components: main
+Suite: stable
 Description: Apt repository for some packages
 SignWith: 79948CDA0E215CADD21B180AA645A8AC7A77CA10
 
@@ -11,5 +12,6 @@ Label: YogSottot PPA
 Codename: noble
 Architectures: amd64
 Components: main
+Suite: stable
 Description: Apt repository for some packages
 SignWith: 79948CDA0E215CADD21B180AA645A8AC7A77CA10
