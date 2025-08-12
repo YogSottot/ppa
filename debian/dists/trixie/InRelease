@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: YogSottot PPA
+Label: YogSottot PPA
+Suite: stable
+Codename: trixie
+Date: Tue, 12 Aug 2025 17:03:08 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for some packages
+MD5Sum:
+ af1ca5f687474ff14322b4ec15579298 2541 main/binary-amd64/Packages
+ 84d338fe64f32a5e999b111f7f5b3c9e 1098 main/binary-amd64/Packages.gz
+ 4724c9b82e5222c375af2c696633ec6f 141 main/binary-amd64/Release
+SHA1:
+ 9734f6e7879c8287aeb072369cda3eb1690ead99 2541 main/binary-amd64/Packages
+ 4f59122d6eada337db9b5970e248679a27c1a335 1098 main/binary-amd64/Packages.gz
+ 7e049d6448cafecbbea73f811bcc28729f3dd5e5 141 main/binary-amd64/Release
+SHA256:
+ b59552325bce5813b31184a25b072a7a1a19c714ea770dd19503571a4fd936d5 2541 main/binary-amd64/Packages
+ ae81fa9a9732a24dcce3857a9cd78e2d375f1ff6c1a840565c4ae7dd664d83e3 1098 main/binary-amd64/Packages.gz
+ 02c2bd194331435d1adb955166b45dc8ba9651e469bad737b6a37a188b91eead 141 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmibc80ACgkQ5SkAoxch
+/P43HQ//dsmGqozMg0Qbl7XZX5ccJDGq98Ir5ANsVF6DgvyCzgAXMXxjZc6nI0Fk
+4CYaRTzzf5Pg6A/B1lqQ6GmkfHojl4YKQ1QzgiD9h08DR2BLKDzjLhF9zZIXWkRm
+gKPbFX7X6QLWllswz5SVPL9Dns3cs7CQ6r1nAXSxzUcPFGhmD9if4rVEXuRrIW6Y
+/FllYJFg9ZtFa4BSnsjEbhYzFNjT1NpIimigejarX7sB1VnLq/4UfLv2Dz53O/9A
+/Kq/e7Lis/j588pSmsex4rXyY3sxuass570RFPcx2+OfoCK5Fu+LijAkiV6Zg5/V
+3PhfTHvyn+dhjwFv6+wfHmEie9V0/HWOamaPI/9XxaI7LaN0sn3J0RJ9DIrZar0A
+ke1I0CjhhvH0P/GHNhFuZQBxbj+hQtrqViPJmNZ4dZXUGVql12RZelm9pFEApAbI
+X8G/UCH6elD8wv6hW2UNtWTo55fSYOfF+QyPgO3YAs+4Sdd4OCGAP8RdZKFgLzhg
+wMHgcF1ywUgl6HAg2Hyp9CIqvBaa6SObzs6xRavk0fPFGlv3AxhyQMNbjOsx+Nka
+A7x9IDLP6B1O1L5tDgswMsPQ+Y8auZxO/cG1V5iFItbb/AfI1fALGf4/w+XEGKWr
+gq/AXHV2GXSSKReFY+HkIu1f0S5yziaKFcluaCteFarMhqcIXxU=
+=NP/n
+-----END PGP SIGNATURE-----
