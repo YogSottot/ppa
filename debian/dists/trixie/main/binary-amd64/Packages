@@ -5,15 +5,15 @@ Vendor: none
 Architecture: amd64
 Maintainer: YogSottot  <7411302+YogSottot@users.noreply.github.com>
 Installed-Size: 72
-Depends: nginx-abi-1.26.3-3, libc6 (>= 2.4)
+Depends: nginx-abi-1.26.3-1, libc6 (>= 2.4)
 Homepage: https://github.com/gabihodoroaga/nginx-ntlm-module
 Priority: optional
 Section: httpd
 Filename: pool/main/libn/libnginx-mod-http-ntlm/libnginx-mod-http-ntlm_1.19.3-1.gbp3da77b0~trixie_amd64.deb
 Size: 36870
-SHA256: 5eccebbd651a3be8c0b4dc178cc65510cbb612f44249fa5802734a4243b3d333
-SHA1: d0bd147c7c381ea0f07f2b570dfc332bfa30a1ea
-MD5sum: b643907685741fd33967a4930f884626
+SHA256: acfbaaaad3aa5bdce4e3d20a8061e6d9d153781a8cdbd98d0cfaf4f014c93ddb
+SHA1: 8d15bb6cd917bcc0bde380cabe6f6ba6f6a19440
+MD5sum: dbe35265d14873d6cd0d6018ab556331
 Description: The NTLM module allows proxying requests with NTLM Authentication. The upstream connection is bound to the client connection once the client sends a request with the Authorization header field value starting with Negotiate or NTLM. Further client requests will be proxied through the same upstream connection, keeping the authentication context.
 
 Package: libnginx-mod-http-zip
@@ -23,15 +23,15 @@ Vendor: none
 Architecture: amd64
 Maintainer: YogSottot  <7411302+YogSottot@users.noreply.github.com>
 Installed-Size: 204
-Depends: nginx-abi-1.26.3-3, libc6 (>= 2.4)
+Depends: nginx-abi-1.26.3-1, libc6 (>= 2.4)
 Homepage: https://github.com/evanmiller/mod_zip
 Priority: optional
 Section: httpd
 Filename: pool/main/libn/libnginx-mod-http-zip/libnginx-mod-http-zip_1.3.0-1.gbp8e65b82~trixie_amd64.deb
-Size: 100476
-SHA256: 8f8b192b9fec5d437b82d144bb352b50fe1a12670fb62e42070232b8a9c212d1
-SHA1: a78ff85ac5946d8698b7eea9f82a9616b6e29b51
-MD5sum: 36afb4bd3891425cf776212d764fd89d
+Size: 100478
+SHA256: cb87e018bb9c8439e384ee3c3617ba8acfc50ae9c11baa1c1a386a5688291ecd
+SHA1: f6ba801792abaaf77cbd445ccbafc8b3d6163602
+MD5sum: e6ddf3d0412d1971cd0f3064ed882a43
 Description: mod_zip assembles ZIP archives dynamically. It can stream component files from upstream servers with nginx's native proxying code, so that the process never takes up more than a few KB of RAM at a time, even while assembling archives that are (potentially) gigabytes in size.
 
 Package: libnginx-mod-http-zstd
@@ -41,14 +41,14 @@ Vendor: none
 Architecture: amd64
 Maintainer: YogSottot  <7411302+YogSottot@users.noreply.github.com>
 Installed-Size: 772
-Depends: nginx-abi-1.26.3-3, libc6 (>= 2.4)
+Depends: nginx-abi-1.26.3-1, libc6 (>= 2.4)
 Homepage: https://github.com/tokers/zstd-nginx-module
 Priority: optional
 Section: httpd
 Filename: pool/main/libn/libnginx-mod-http-zstd/libnginx-mod-http-zstd_0.1.1-1.gbp057a7d3~trixie_amd64.deb
-Size: 315700
-SHA256: 10fb240d1f8dd26ec544b8b7e40a4ec3490e75935c9ac0d13833e2b794d05e0d
-SHA1: 9260af448b7baebb0ac0933f7705027ca7899a73
-MD5sum: a38fef615aa6c3c387b62dbd07abb7da
+Size: 315706
+SHA256: ba183d06c0b772f8434eeaf73a0f2160b306c449fefa7c70b26ade8ac783a4a7
+SHA1: e22b0f22ecb5e977e067db7505c6dce2b5e76be1
+MD5sum: 234bbdbf62b593cbc2bd750ffa35c2f4
 Description: NGINX module for ZSTD compression
 

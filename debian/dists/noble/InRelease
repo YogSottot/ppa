@@ -5,7 +5,7 @@ Origin: YogSottot PPA
 Label: YogSottot PPA
 Suite: stable
 Codename: noble
-Date: Mon, 11 Nov 2024 12:09:46 UTC
+Date: Wed, 13 Aug 2025 11:06:34 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for some packages
@@ -23,17 +23,17 @@ SHA256:
  02c2bd194331435d1adb955166b45dc8ba9651e469bad737b6a37a188b91eead 141 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmcx9AoACgkQ5SkAoxch
-/P6EBg//Zy3s9tNw6mgcVwVgsARt0glpH3+K+jSer/mK0c93NZAiU60WTRaDWvLl
-NA0qDS0T31JCavZQkuXM7GunyvqoqWpmX4aTcV6KhT3zZkYxa2WU6ns1jhCI5KpO
-GnAWWjO6hA7qNuYpAJlUjDamqbLit3O65sYUxzmAAHE73Y3q7glOzhweIAz1kR1+
-DshSTtfRdrxkDHxjsSJseqHXibj5KFc9BKxfXWqbuCSY5a4NaBoh2+9PZ8hjeGat
-BvH+IUhcHA9l3cA1iP5nD7eCMnw3x/ExEpturJivB+pv4VOiOP0/3D6/UBQmiEL8
-+zNb0xh1r1nTJeHdjUAlcBow65pHBT6FRPSd63A8BgCAgv5l+Gq13iTZowSvBEru
-6EQNU81ZVwA6dy5VuVwx6iVT5jaYdp4KkdSr+9AVfjl+0dN1LHeouLgn6dejoslw
-pYeJgyiJJ42+PIO2VMvl2oF5c3oYSQv8FPqXHsfO3JExTUifUAjxoa9u5bP+3H5z
-0AhuWs4w6re2rsi1QIONkPsShIVOA72keGcDjX9p2XqFWAbLnGRVnU0zr3tOY5Nn
-yxPyeojL3de3b/gQTc7IRPXSpz7osTH55kvokGoW+sTVRpS+YsOod+2anflTZETL
-cuvONRGzm2yL+IwzZChoolBGpNz7UkA8B01YW/C4mPgVSQY6X2M=
-=0YkI
+iQIzBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmiccboACgkQ5SkAoxch
+/P67ABAArCF3PGoQiGWoXtCY6hcpGrPXkPJNF4IE7fPTS2jntqecVer22tMaLi+3
+lDsuxekxNglD4yEQHwptU0GCYdOc3/+uqf1wevFEzmBqthuasfwnXc0iuFe6WmUq
+gqySzCYHhwlwC3U/RBQo7kKxZEd+X6J7jV7JiDYd6nsXgEU1MXx8lQFof0yVhqOg
+YTG22jKN1lc4Y5cc8/YEcufZTQlBcB/EvVocyIqpJR+gUybVBsbGswgUR3lq2ACp
+LlSXHLq+FWCHYHAJzjDIRTDr3WUC36igmYTdXGA4MlZrfh1xYqKwIyl5Kp6AYyIc
+irKZUlevz0UhHm6iCerj4iuWL4nwmDBvPDtucgBFCP9/1tbY/bIIN6BJB/eJNNED
+S8q40V4QyjsW5ffOhT2YH4cwDxJeody8FCo061zqjFo3pm8sTm0ozF+8OLHQMnS6
+vsz0eU7NRVuuLDLAYkLmd095tDX27mVqpNbKs6y49V1NPe5l+gM4Q1muJzMya8Aj
+DAgWKrIUhoeR15/6oFmcDzg/UU+sDlDVsYJ0DomU718Ttn545iA2vsp+4Vr8q6IC
+XMexkae+SiziQpM4IvRCOCZfqSfXfzNE6JjiqZwxNOI06QjRu17ycMktLbDekfjv
+bwmaLgfza6plEF3rZQGEnZoF/60mD80x7gUulkjPtqOzIrfVifc=
+=qHIo
 -----END PGP SIGNATURE-----
