@@ -35,7 +35,7 @@ MD5sum: e6ddf3d0412d1971cd0f3064ed882a43
 Description: mod_zip assembles ZIP archives dynamically. It can stream component files from upstream servers with nginx's native proxying code, so that the process never takes up more than a few KB of RAM at a time, even while assembling archives that are (potentially) gigabytes in size.
 
 Package: libnginx-mod-http-zstd
-Version: 0.1.1-1.gbp057a7d3~trixie
+Version: 0.1.1-2.gbp057a7d3~trixie
 License: bsd3
 Vendor: none
 Architecture: amd64
@@ -45,10 +45,10 @@ Depends: nginx-abi-1.26.3-1, libc6 (>= 2.4)
 Homepage: https://github.com/tokers/zstd-nginx-module
 Priority: optional
 Section: httpd
-Filename: pool/main/libn/libnginx-mod-http-zstd/libnginx-mod-http-zstd_0.1.1-1.gbp057a7d3~trixie_amd64.deb
-Size: 315706
-SHA256: ba183d06c0b772f8434eeaf73a0f2160b306c449fefa7c70b26ade8ac783a4a7
-SHA1: e22b0f22ecb5e977e067db7505c6dce2b5e76be1
-MD5sum: 234bbdbf62b593cbc2bd750ffa35c2f4
+Filename: pool/main/libn/libnginx-mod-http-zstd/libnginx-mod-http-zstd_0.1.1-2.gbp057a7d3~trixie_amd64.deb
+Size: 315700
+SHA256: 295e701e61d79c4ff2fdfddb3073fa690bf80f4ecf8cd510177d1be9bd7ced0c
+SHA1: bd410b63062e94dffcedcba31e7b7670f1ea8cea
+MD5sum: 61994d38a48870d4af501716a14da9cf
 Description: NGINX module for ZSTD compression
 
