@@ -17,7 +17,7 @@ MD5sum: 203bef96ba0770b6f5f5a28073639676
 Description: The NTLM module allows proxying requests with NTLM Authentication. The upstream connection is bound to the client connection once the client sends a request with the Authorization header field value starting with Negotiate or NTLM. Further client requests will be proxied through the same upstream connection, keeping the authentication context.
 
 Package: libnginx-mod-http-zip
-Version: 1.3.0-1.gbp8e65b82~bookworm
+Version: 1.3.0-2.gbp4aa963c~bookworm
 License: bsd3
 Vendor: none
 Architecture: amd64
@@ -27,11 +27,11 @@ Depends: nginx-abi-1.22.1-7, libc6 (>= 2.4)
 Homepage: https://github.com/evanmiller/mod_zip
 Priority: optional
 Section: httpd
-Filename: pool/main/libn/libnginx-mod-http-zip/libnginx-mod-http-zip_1.3.0-1.gbp8e65b82~bookworm_amd64.deb
-Size: 102998
-SHA256: 1ef47ef43dc9366365fb4e7750c91b592bab13f7298794477ccf9f7746992d14
-SHA1: 3e3fbbb4e9b070ad8e74133ae2de40e7a4357c27
-MD5sum: 149bb4c88768492b95fc4cefff7abd82
+Filename: pool/main/libn/libnginx-mod-http-zip/libnginx-mod-http-zip_1.3.0-2.gbp4aa963c~bookworm_amd64.deb
+Size: 102002
+SHA256: 7a8827f08fd37c0098d5e9c8d17e499fae7469de6b9d79032d3233f5107b9d0b
+SHA1: a363e64e7455d30a1fdf74262eb0622702f29946
+MD5sum: e14960fcc80dc7e2abe55204b96256f1
 Description: mod_zip assembles ZIP archives dynamically. It can stream component files from upstream servers with nginx's native proxying code, so that the process never takes up more than a few KB of RAM at a time, even while assembling archives that are (potentially) gigabytes in size.
 
 Package: libnginx-mod-http-zstd
