@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -eo pipefail
 
-DISTRIBUTIONS=("bookworm" "noble" "trixie")
+DISTRIBUTIONS=("bookworm" "trixie" "jammy" "noble")
 MODULES=("mod_ntlm" "mod_zip" "mod_zstd")
 
 cd debian
