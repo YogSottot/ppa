@@ -2,19 +2,19 @@ Origin: YogSottot PPA
 Label: YogSottot PPA
 Suite: stable
 Codename: trixie
-Date: Thu, 04 Sep 2025 09:32:33 UTC
+Date: Mon, 16 Mar 2026 19:40:22 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for some packages
 MD5Sum:
- 494bf0668f46b6cc7061c765c4be20ab 2541 main/binary-amd64/Packages
- f13bd20103b081f6f6626c93d630a7a0 1101 main/binary-amd64/Packages.gz
+ 0851158a909599c40766bbeac70e681f 4777 main/binary-amd64/Packages
+ 3b3b39ca2906f1da8a83410763d2439b 2114 main/binary-amd64/Packages.gz
  4724c9b82e5222c375af2c696633ec6f 141 main/binary-amd64/Release
 SHA1:
- ba3b551f5c223f7904e741966f7751bd7b463a8c 2541 main/binary-amd64/Packages
- 009731eb186c4f5b0064be1e5859540845d10802 1101 main/binary-amd64/Packages.gz
+ 72412bad3986f73b4b140fb87e3e5b76be01ec49 4777 main/binary-amd64/Packages
+ b552cd4df19315785ef6f547c7367c0d7a8a0f5e 2114 main/binary-amd64/Packages.gz
  7e049d6448cafecbbea73f811bcc28729f3dd5e5 141 main/binary-amd64/Release
 SHA256:
- a1d45f4882cc51acc94ea2ba502799c357712c98965c1f2c80585672536576ca 2541 main/binary-amd64/Packages
- beb26b972c8b2df6ecae68325ac7e80e4cc2bda328ff7cf83ecd4583b17070c2 1101 main/binary-amd64/Packages.gz
+ bf8c396406f3fcfa27fd1f692a36dc0eef8e24ed3abe08432421209c89e406ac 4777 main/binary-amd64/Packages
+ 362f6e7830fb1ab5d0fa3e4eaca2db940afc28b9808b3fba091c48640004b41e 2114 main/binary-amd64/Packages.gz
  02c2bd194331435d1adb955166b45dc8ba9651e469bad737b6a37a188b91eead 141 main/binary-amd64/Release

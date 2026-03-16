@@ -1,3 +1,31 @@
+Package: libapache2-mod-auth-ntlm-winbind
+Version: 0.0.0-0~bookworm
+License: Apache-2.0
+Vendor: none
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 39
+Depends: apache2-api-20120211, libc6 (>= 2.14), winbind, libnss-winbind, libpam-winbind, krb5-user
+Homepage: http://adldap.sourceforge.net/wiki/doku.php?id=mod_auth_ntlm_winbind
+Priority: optional
+Section: web
+Filename: pool/main/liba/libapache2-mod-auth-ntlm-winbind/libapache2-mod-auth-ntlm-winbind_0.0.0-0~bookworm_amd64.deb
+Size: 14488
+SHA256: 9f7c98bd1f3844cd8b5ac87de9be6d615b7ed8dbae3048ccaf7663f28c94939f
+SHA1: 74d83a55c15faf60f7218fee0bb75093c712c34d
+MD5sum: 4c1efe84eaeff384a6db48635ab57df7
+Description: apache2 module for NTLM authentication against Winbind 
+ The mod_auth_ntlm_winbind module provides authentication and 
+ authorisation over the web against a Microsoft Windows NT/2000/XP/etc or 
+ Samba Domain Controller using Samba's winbind daemon running on the 
+ same machine Apache is running on.
+ .
+ If you're considering using this module, you should be aware that NTLM
+ isn't regarded as very secure by modern standards - even Microsoft no longer
+ recommends its use - and where possible, you probably want to use gssapi with
+ negotiate auth over https instead (see Debian package
+ libapache2-mod-auth-gssapi).
+
 Package: libnginx-mod-http-ntlm
 Version: 1.19.3-1.gbp3da77b0~bookworm
 License: bsd3
@@ -51,4 +79,28 @@ SHA256: a4f74c30f0233c0325fa0f4f6f84eda510083a3839324ab5cdb4f864c15be1a4
 SHA1: c80dd07bb499511468f5ad1cf7c353d85ebe720d
 MD5sum: 6d21cc6c0c55984112e936e441591089
 Description: NGINX module for ZSTD compression
+
+Package: zellij
+Version: 0.43.1-1~bookworm
+License: MIT
+Vendor: none
+Architecture: amd64
+Maintainer: Aram Drevekenin <aram@poor.dev>
+Installed-Size: 41515
+Homepage: https://zellij.dev
+Priority: optional
+Section: misc
+Filename: pool/main/z/zellij/zellij_0.43.1-1~bookworm_amd64.deb
+Size: 15586610
+SHA256: fb82d8c3871d0d9b67e270e92e1013a0f5f1fc108840ced2194aa5e857010541
+SHA1: cc29f1d1864a3ce86bd38ef7b8b3d796b7ebdba6
+MD5sum: ee25eaa6e9894a65ba7d61fe401e52c2
+Description: A terminal workspace with batteries included
+  Zellij is a workspace aimed at developers, ops-oriented
+  people and anyone who loves the terminal. Similar programs are sometimes called
+  Terminal Multiplexers.
+  .
+  Zellij is designed around the philosophy that one must not sacrifice simplicity
+  for power, taking pride in its great experience out of the box as well as the
+  advanced features it places at its users' fingertips
 
