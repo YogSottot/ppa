@@ -5,35 +5,35 @@ Origin: YogSottot PPA
 Label: YogSottot PPA
 Suite: oldstable
 Codename: bookworm
-Date: Mon, 16 Mar 2026 19:40:22 UTC
+Date: Wed, 18 Mar 2026 08:03:28 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for some packages
 MD5Sum:
- d2eb3848896a6cd1a7533a1c51bd3db8 4797 main/binary-amd64/Packages
- 33685d7e85a47d16171c7d96a9fe03cc 2116 main/binary-amd64/Packages.gz
+ 1856a2d0570d202e328a0b307396ba0b 4784 main/binary-amd64/Packages
+ e11b8e28b074f27096ba218783d36c4e 2112 main/binary-amd64/Packages.gz
  35c1d5ec035a909a7ad4254bfe0673a8 144 main/binary-amd64/Release
 SHA1:
- 96bf401379777197ca7cfb949492f772ab278e54 4797 main/binary-amd64/Packages
- 4f79789b1af2756af307989f99be90d554559f2b 2116 main/binary-amd64/Packages.gz
+ 25422268a1ed3906cacafa90a642f4dc3dfdfcf2 4784 main/binary-amd64/Packages
+ 71b72282530c69068ac616a78bd32a7e54a08824 2112 main/binary-amd64/Packages.gz
  1a052f61e314a2339b694b52ec8e0d59a19f45c7 144 main/binary-amd64/Release
 SHA256:
- 8801cb4dc4cfc21cea4a41e2b6cd3c069fd869a2ea4f0e8076447935cf7feb37 4797 main/binary-amd64/Packages
- 7fba80c34ca4d81e0f3ab29d3c105e949bd9e73b9c811d666967a93e610ddcb0 2116 main/binary-amd64/Packages.gz
+ 40970638d479d449b63e8bbea7a40672a5af0b32ec79245bc48f1db2f3e16abe 4784 main/binary-amd64/Packages
+ e3f4291688a6f967db04bb74cd9f7cfd40e062f72de82b7c0d9401324282207c 2112 main/binary-amd64/Packages.gz
  69abded0f8890b8451b99f3854f318839a0ec1779c87b2b6350efe0a3bfa009b 144 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIyBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmm4XKYACgkQ5SkAoxch
-/P6bcw/3fSUHG2o1Ao4y4klpmH2Opz4m/S1Y8sRLsGLDRLkxfwlIpXYU2/I2SpUz
-apm+toqjM3jkTnLENjPE/YK7C8vLtlAlTjS00dUn5r+DPzPCeY/l/4vtRi3SBKpU
-cR1x+ImhpTtYxgVULctb3w5jGLtJVqp/QRkxDVpJ37Jf1tzZa3nvRbEGneG0m5Cb
-1If8bo9Ox7O48EHkfA4sReFbhB2jz5qDbvDx9efazGb/70ixsRJN6ZqZJ510aXol
-NVDT/OUw1Sm3cUppUUAiyq76vutyAkfXwOltVxjLz6NyKmiWtUvx0KTnwjg2pArg
-QJIVmR0vNONnSOpzl9NKLUYgpV7lw7TjRa9wQn6IuShVE4WUlwvIALxOAqPeUpZx
-ydZDfVBYPP/NRbxTh5H29uL4UB63ZDPV6nI7KVJqieUk9eSXiuef/CNVNui07P6d
-wzGCTBi+qFoJFEb2yVRTk3pLTTjRce5xoUGubXoq9DAgFEQqqMri9zd7YMKw4Oz6
-VBbxSaNGsjTuwZ6QPXZyh9+YgNDs7KdSJOzqirsYk5yrJDgRh74W54WeLGBuL7b9
-6tjGLbdqzgcYry5pmKt//Ne3wSGrMvQyqazuqGV7eGEOmaluw2iwi7k2oh09/nok
-M2L1i4l22rUq/SDBmVYQSu4ne4RtuciKcCXDZv8g+0+wbZxVBw==
-=faQU
+iQIzBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmm6XFAACgkQ5SkAoxch
+/P5/JA/+LWWiXyJBwmPj0OdJpmWsOznEFpHl66SnBHI04Fesif0AJU3bdtm44iZ8
+BxVP1aAREMtR7E0+6Lw0EXf+1J59BLYzApDLFGxu/gSsUuZF8z+OmX+m3JesR6B/
+ZRm625C4TXznC+MVG9II9WK3CP7Jm3pIg9UQ9uenwM1OjeJfVb26tKUzg/tCzz07
+hzJlNw6dZUU1j1+f6zgGRdm5zKzvVNaQDuS33lt//38kqeWDUtMeQisfm1Ort6SB
+ALBTyM1u29C1SWDrDulA8Eaa1okj6VWcGEzzt0MxdaqnPdnaXcNV3uT7PKNnMEQt
+KgW5ETWMLz7bguUM0fJtjIJAUS5L86IoDFAhr/DgL6j08lF/Yc4H8Dcz0XSHoafS
+EutfdlDuspF7+fCzFMoz9X3XXIn3z1eoTRUDB4SDu1XJWY4NjemmX+zra8BMbLfs
+r4F8G8DLFxjTH0qCV509JAxpYvmdVPts5ATL7IJPWioFO1TsuGMox/aQpWXODRfd
+k8mkM5+ttt24016KWBLn9tH2qpzoJ0V48zU6inU+oHkftK6ODSb15e0N6boVze3M
+0I3i4kBGZk9MW24z2opRmg7z2ZiHC/f1BolDtNKgi8PjY9t5lsCMUTpE2Yn0AOLl
+FHPYuu65DO9ferDrZ/8zMVSBn426eju72qw/n9pUQR/f+Eo4QUg=
+=JiWy
 -----END PGP SIGNATURE-----
