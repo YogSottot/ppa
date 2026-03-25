@@ -11,7 +11,7 @@ for dist in "${DISTRIBUTIONS[@]}"; do
     
     #for module in "${MODULES[@]}"; do
         #echo "Including $module for $dist"
-            #find "../nginx_mod_zip_docker_builder/fpm/$module/$dist" -name "*${dist}*.deb" -exec reprepro includedeb "$dist" {} +
-            find "../../nginx_mod_zip_docker_builder/fpm/deb/$dist" -name "*${dist}*.deb" -exec reprepro includedeb "$dist" {} +
+            #find "../nginx_mod_zip_docker_builder/$module/$dist" -name "*${dist}*.deb" -exec reprepro includedeb "$dist" {} +
+            find "../../nginx_mod_zip_docker_builder/deb/$dist" -name "*${dist}*.deb" -exec reprepro includedeb "$dist" {} +
     #done
 done

@@ -4,7 +4,7 @@ set -eo pipefail
 WORKDIR=./redhat/repo/x86_64
 
 mkdir -p ${WORKDIR}
-cp ../nginx_mod_zip_docker_builder/fpm/rpm/generic/x86_64/*.rpm ${WORKDIR}
+cp ../nginx_mod_zip_docker_builder/rpm/generic/x86_64/*.rpm ${WORKDIR}
 
 # подпись
 source ./redhat/gpg-env.sh

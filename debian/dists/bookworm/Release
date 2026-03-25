@@ -2,19 +2,19 @@ Origin: YogSottot PPA
 Label: YogSottot PPA
 Suite: oldstable
 Codename: bookworm
-Date: Wed, 18 Mar 2026 08:03:28 UTC
+Date: Wed, 25 Mar 2026 14:00:39 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for some packages
 MD5Sum:
- 1856a2d0570d202e328a0b307396ba0b 4784 main/binary-amd64/Packages
- e11b8e28b074f27096ba218783d36c4e 2112 main/binary-amd64/Packages.gz
+ 00b3df5e85019a113ce9b79268d83b26 4784 main/binary-amd64/Packages
+ d4dd0a427ba5e85fa369726a588ef27a 2111 main/binary-amd64/Packages.gz
  35c1d5ec035a909a7ad4254bfe0673a8 144 main/binary-amd64/Release
 SHA1:
- 25422268a1ed3906cacafa90a642f4dc3dfdfcf2 4784 main/binary-amd64/Packages
- 71b72282530c69068ac616a78bd32a7e54a08824 2112 main/binary-amd64/Packages.gz
+ 4aed57d0b63837c264ff653a3b4571ededc3a0d8 4784 main/binary-amd64/Packages
+ 394269071d6642be180c70d22ec221296efc8b14 2111 main/binary-amd64/Packages.gz
  1a052f61e314a2339b694b52ec8e0d59a19f45c7 144 main/binary-amd64/Release
 SHA256:
- 40970638d479d449b63e8bbea7a40672a5af0b32ec79245bc48f1db2f3e16abe 4784 main/binary-amd64/Packages
- e3f4291688a6f967db04bb74cd9f7cfd40e062f72de82b7c0d9401324282207c 2112 main/binary-amd64/Packages.gz
+ a54b8a70d0f4514a202558197b297270046728b886a68137e89f120cf9227b9d 4784 main/binary-amd64/Packages
+ bfaee89ee692af2c2d9040ff6833cb6a3c5ff3e7ad6f03423663fa70cbea7353 2111 main/binary-amd64/Packages.gz
  69abded0f8890b8451b99f3854f318839a0ec1779c87b2b6350efe0a3bfa009b 144 main/binary-amd64/Release
