@@ -1,30 +1,20 @@
 Package: libapache2-mod-auth-ntlm-winbind
-Version: 0.0.0-0~trixie
+Version: 0.0.0-1~trixie
 License: Apache-2.0
 Vendor: none
 Architecture: amd64
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-Installed-Size: 39
-Depends: apache2-api-20120211, libc6 (>= 2.14), winbind, libnss-winbind, libpam-winbind, krb5-user
+Installed-Size: 71
+Depends: apache2-api-20120211, libc6 (>= 2.14), winbind, libnss-winbind, libpam-winbind
 Homepage: http://adldap.sourceforge.net/wiki/doku.php?id=mod_auth_ntlm_winbind
 Priority: optional
 Section: web
-Filename: pool/main/liba/libapache2-mod-auth-ntlm-winbind/libapache2-mod-auth-ntlm-winbind_0.0.0-0~trixie_amd64.deb
-Size: 13938
-SHA256: 540280e16aca234425bd708358dc2cc89853a6812ba84013ac22408f6ac124d9
-SHA1: fd291d4e4e363028652edd76c1aa6cd74600bdd8
-MD5sum: 644f0cb4f431ed190b5b003310c4b52b
-Description: apache2 module for NTLM authentication against Winbind 
- The mod_auth_ntlm_winbind module provides authentication and 
- authorisation over the web against a Microsoft Windows NT/2000/XP/etc or 
- Samba Domain Controller using Samba's winbind daemon running on the 
- same machine Apache is running on.
- .
- If you're considering using this module, you should be aware that NTLM
- isn't regarded as very secure by modern standards - even Microsoft no longer
- recommends its use - and where possible, you probably want to use gssapi with
- negotiate auth over https instead (see Debian package
- libapache2-mod-auth-gssapi).
+Filename: pool/main/liba/libapache2-mod-auth-ntlm-winbind/libapache2-mod-auth-ntlm-winbind_0.0.0-1~trixie_amd64.deb
+Size: 32210
+SHA256: f6343cad2f71842d8a4086a532f74f3ed32ee76c51b39ac0650c2719ed9027dd
+SHA1: 74eb569d515098fcc7b94ecb56be56ddeeb4cd1d
+MD5sum: 076bf04451e8aead49bed427d81e48d0
+Description: apache2 module for NTLM authentication against Winbind The mod_auth_ntlm_winbind module provides authentication and authorisation over the web against a Microsoft Windows NT/2000/XP/etc or Samba Domain Controller using Samba's winbind daemon running on the same machine Apache is running on. . If you're considering using this module, you should be aware that NTLM isn't regarded as very secure by modern standards - even Microsoft no longer recommends its use - and where possible, you probably want to use gssapi with negotiate auth over https instead (see Debian package libapache2-mod-auth-gssapi).
 
 Package: libnginx-mod-http-ntlm
 Version: 1.19.3-1.gbp3da77b0~trixie
