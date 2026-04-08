@@ -2,19 +2,19 @@ Origin: YogSottot PPA
 Label: YogSottot PPA
 Suite: stable
 Codename: noble
-Date: Fri, 03 Apr 2026 11:37:12 UTC
+Date: Wed, 08 Apr 2026 17:08:10 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for some packages
 MD5Sum:
- 7f6b3d5c0dcc04528d5f4fea0cad3427 4732 main/binary-amd64/Packages
- eb53b54ae7733d882467a03a899f47c6 2088 main/binary-amd64/Packages.gz
+ eaf3d5aa635e0dd9d5d531aa1969889b 4732 main/binary-amd64/Packages
+ ed92d67ad874c790921c1665e0805233 2087 main/binary-amd64/Packages.gz
  4724c9b82e5222c375af2c696633ec6f 141 main/binary-amd64/Release
 SHA1:
- df7cd4f9fdc980f4a9e39352265ee400faf86e39 4732 main/binary-amd64/Packages
- 4e8569b2e3e5c244f3e44161da77222b8dd46d2a 2088 main/binary-amd64/Packages.gz
+ 414eafba7404d1f276063e80a016013491de91fa 4732 main/binary-amd64/Packages
+ d7830eb3e2b44cd21e04834ec0fc0f155cce42b3 2087 main/binary-amd64/Packages.gz
  7e049d6448cafecbbea73f811bcc28729f3dd5e5 141 main/binary-amd64/Release
 SHA256:
- 4142c81e6ea81e3fcf995c1c94ef9356c0182a720fe17abc579ed5d4602caccc 4732 main/binary-amd64/Packages
- 48244f89b6d3b7938f6b554f9b12dca87df7001a9b26900e32df7237c288b28d 2088 main/binary-amd64/Packages.gz
+ 84d135a9c87fc08ba155d255ed0e9e9c1021b641e5591ebc1c06bbe7ee5184ea 4732 main/binary-amd64/Packages
+ 6e7c6de1459667c7cf781bb522461e1c592b886c499070b08702c65c2c74718f 2087 main/binary-amd64/Packages.gz
  02c2bd194331435d1adb955166b45dc8ba9651e469bad737b6a37a188b91eead 141 main/binary-amd64/Release
