@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: YogSottot PPA
+Label: YogSottot PPA
+Suite: stable
+Codename: resolute
+Date: Fri, 24 Apr 2026 09:44:32 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for some packages
+MD5Sum:
+ fadd4c2994005e40df5c7f3764ca2402 4765 main/binary-amd64/Packages
+ 036ddf67176571108cda83dd17b086de 2099 main/binary-amd64/Packages.gz
+ 4724c9b82e5222c375af2c696633ec6f 141 main/binary-amd64/Release
+SHA1:
+ ed0330e560ae5ea984d5edd5e0a20d620934b14f 4765 main/binary-amd64/Packages
+ 8a7e69aab8b51c65dd78c3083d38e7a07d272ffe 2099 main/binary-amd64/Packages.gz
+ 7e049d6448cafecbbea73f811bcc28729f3dd5e5 141 main/binary-amd64/Release
+SHA256:
+ c5b1d406bce3e6f59bd5d7dbe1d29d19432eb7438b0eb6f1735f9040d48e8b7f 4765 main/binary-amd64/Packages
+ 58bb98284b4809689d8d465e00dd265c28837da3e370091963c60ed1a7708060 2099 main/binary-amd64/Packages.gz
+ 02c2bd194331435d1adb955166b45dc8ba9651e469bad737b6a37a188b91eead 141 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEefxG09qwZc0QGPa85SkAoxch/P4FAmnrO4AACgkQ5SkAoxch
+/P4b9A//ewB9opCwLyvWSjUO63u60QPFmM6aImjuGymcIwVRgfTfeUtGENvIOy5x
+YXe1P4o2oMsyoFMmBpR5PVC07dk5yuej9qpQM5z9x8LO0/xQVErAiwMME7h2vYxe
+0uq8ydKXuXMebElB9bM9gs+eX9cLYfRBKt4cro7iVc/Q/eLNz/aXfu4F2JHo/dM9
+BucTtzZocMqHAkKy6EEO43IXFOrKMLHfnVAWwSEPdBvrxAuJ+FUJbltQrS2YuezZ
+93ZmPZC5VBpQ/KkuCKRaZSVYeutui9Zb8SD0LLFBjfmiCt/JYhTkCZ11G4JLK/bU
+5esbq9q4Rujn3TlOQC4H+y3kF511ZOV0bJYUwYkVTj9gP8hSTHuox+o0IAGl/EA/
+nLEjPLXmSBZa3Pz1e4Fe8Y2OHoXSl+q+Dlj4M7HjuDXN6IX8mhOOsRT8of/AKl7h
+v7mcSH4UziArvhVfQgiRJIyj1Z6mMJz50YgvdP/a8V6eSXrAF3yB3CHElq+beYIp
+aZzfAjPZWXW2uxY2jHy0Xct+nVntJUP2TOu22g1zNIApP9/4o+wFcvjnCzPhEPKU
+fqLRvf+LiIqBjHuG85bq7WiHyMeS9IVfYZHaQT0+ui38We1uePpOM+mySTdVzRji
+Pw9bc2KyuKL0c6yxV48+sbZXOOZrXeO7ZobdWD6KExLLVLGkqIk=
+=pmVM
+-----END PGP SIGNATURE-----
