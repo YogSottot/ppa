@@ -2,19 +2,19 @@ Origin: YogSottot PPA
 Label: YogSottot PPA
 Suite: stable
 Codename: resolute
-Date: Fri, 28 Aug 2026 12:35:58 UTC
+Date: Wed, 11 Nov 2026 16:16:59 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for some packages
 MD5Sum:
- 6bccde256816616b30b63f2177c58557 4765 main/binary-amd64/Packages
- dd9b0a90375f2b7ed3def653ed39b5c8 2103 main/binary-amd64/Packages.gz
+ dd0ccce989bda4b996dda9f71b625303 4765 main/binary-amd64/Packages
+ ffaf77719383349f45a76e18f4c7960a 2104 main/binary-amd64/Packages.gz
  4724c9b82e5222c375af2c696633ec6f 141 main/binary-amd64/Release
 SHA1:
- 4dcccb189eb20056618aadd99858f701aa4d7a6e 4765 main/binary-amd64/Packages
- a9df981e7a6368a8cbbb7c13d25ddf3bc04ed5e4 2103 main/binary-amd64/Packages.gz
+ 71aec7b6b5068b69cfe343d72c84b0d67b969f51 4765 main/binary-amd64/Packages
+ 085a825d4ba14db621a92a868d88ce79a16b28d2 2104 main/binary-amd64/Packages.gz
  7e049d6448cafecbbea73f811bcc28729f3dd5e5 141 main/binary-amd64/Release
 SHA256:
- 669a35fa7fe895e699c0dce619a270f7e60799262023d242eb5194fbd7c3afc4 4765 main/binary-amd64/Packages
- df33dce4a5a5a5318461c7ba8abec4a43c6c84c2e86e94ea6251063527d31499 2103 main/binary-amd64/Packages.gz
+ 8ad629b52e3b7036b04bc2e903c6a90bd3d00803b854dfaa66de767274616642 4765 main/binary-amd64/Packages
+ b4c09632ff8f85d52fd1844719bbf31ef67439567d1acd371e2d5f2033b86bfe 2104 main/binary-amd64/Packages.gz
  02c2bd194331435d1adb955166b45dc8ba9651e469bad737b6a37a188b91eead 141 main/binary-amd64/Release

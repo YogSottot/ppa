@@ -71,19 +71,19 @@ MD5sum: 6ef21ee5ef5e5008337af90a687564a1
 Description: NGINX module for ZSTD compression
 
 Package: zellij
-Version: 0.45.1-3~resolute
+Version: 0.46.0-3~resolute
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: Aram Drevekenin <aram@poor.dev>
-Installed-Size: 43553
+Installed-Size: 80829
 Homepage: https://zellij.dev
 Priority: optional
 Section: misc
-Filename: pool/main/z/zellij/zellij_0.45.1-3~resolute_amd64.deb
-Size: 14917780
-SHA256: 35af1a4ec4c435a50c968ae2aa3e1e79ac8ffe8a22df504090d60bf08202a984
-SHA1: 91a5ba9aa021d14365909be083703c532dc08952
-MD5sum: 1746ac7f2c08d14def5cd435e8255c4f
+Filename: pool/main/z/zellij/zellij_0.46.0-3~resolute_amd64.deb
+Size: 35877734
+SHA256: 5ea52b17fedcd48eb202e9808835d443d640622ac222b9143ef61475d5ccfa90
+SHA1: 564f69be94990b08b625fcff7c330743f463154a
+MD5sum: de28446b073b32ea23b096356ae7f503
 Description: A terminal workspace with batteries included Zellij is a workspace aimed at developers, ops-oriented people and anyone who loves the terminal. Similar programs are sometimes called Terminal Multiplexers. . Zellij is designed around the philosophy that one must not sacrifice simplicity for power, taking pride in its great experience out of the box as well as the advanced features it places at its users' fingertips.
 
